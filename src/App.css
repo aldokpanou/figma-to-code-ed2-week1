@@ -1,0 +1,7 @@
+@import url('@fontsource/raleway/400.css');
+@import url('@fontsource/raleway/700.css');
+/* Add more weights if needed */
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
